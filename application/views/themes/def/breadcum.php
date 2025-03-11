@@ -1,0 +1,4 @@
+<div class="page-wrapper">
+      <h3><b>IDENTIFIKASI HATE SPEECH PADA MEDIA SOSIAL TWITTER MENGGUNAKAN ARTIFICIAL NEURAL NETWORK (ANN)</b></h3>
+      
+    </div>
